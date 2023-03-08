@@ -1,0 +1,31 @@
+.listCell_Container {
+    /*-fx-background-color: linear-gradient(to right, #1c1b1c, #30241f) ;*/
+    /*-fx-background-color: #989898;*/
+
+}
+
+.listCell_Container .label {
+    -fx-font-family: "Cascadia Code";
+    -fx-font-size: 1.1em;
+    -fx-fill: #000;
+}
+.listCell_Container .Text {
+    -fx-font-family: "Cascadia Code";
+    -fx-font-size: 1em;
+    -fx-fill: #000;
+}
+
+.listView{
+    -fx-font-family: "Cascadia Code";
+    -fx-background-radius: 10;
+    -fx-border-width: 2;
+    -fx-border-color: #656565;
+    -fx-border-radius: 10;
+    /*-fx-background-color: linear-gradient(to right, #1c1b1c, #30241f);*/
+}
+.absent_btn{
+    -fx-background-radius: 10;
+    -fx-border-width: 2;
+    -fx-background-color: #339898;
+    -fx-border-radius: 10;
+}

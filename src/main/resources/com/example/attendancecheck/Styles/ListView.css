@@ -1,0 +1,20 @@
+.listView_Container {
+    /*-fx-background-color: linear-gradient(to right, #1c1b1c, #30241f) ;*/
+    /*-fx-background-color:#FFFFFF ;*/
+
+}
+
+.header {
+    -fx-font-family: "Cascadia Code";
+    -fx-font-size: 1.5em;
+    -fx-fill: #000;
+}
+
+.listView{
+    -fx-background-radius: 10;
+    -fx-border-width: 2;
+    -fx-border-color: #CCC;
+    -fx-border-radius: 10;
+    /*-fx-background-color: linear-gradient(to right, #1c1b1c, #30241f);*/
+
+}
